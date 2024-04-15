@@ -1,1 +1,3 @@
-# Readback-Fault-Detection-CYIENT-Internship-
+# Readback-Fault-Detection-(CYIENT-Internship)
+
+Throughout my internship, I acquired and improved upon various skills, including data analysis, project management, and using cloud computing platforms like Amazon Web Services & Microsoft Azure. I collaborated with senior data scientists and cross-functional teams to understand business objectives and data analysis requirements. I conducted exploratory data analysis to identify patterns, trends, and insights that aided in the decision-making of the project which further supported the development and implementation of machine learning models for predictive and prescriptive analytics. The project provides a platform for Readback Fault Detection for Driver-less Goods Trains. I built the entire backend of the Use-case in Python and incorporated concepts of Natural Language Processing and Artificial intelligence.
